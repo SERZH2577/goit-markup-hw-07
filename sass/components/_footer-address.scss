@@ -1,0 +1,9 @@
+.footer-address {
+	font-style: normal;
+	&__text {
+		margin-bottom: 9px;
+		font-size: 14px;
+		line-height: 1.71;
+		color: var(--secondary-text-color);
+	}
+}

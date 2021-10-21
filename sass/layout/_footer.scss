@@ -1,0 +1,15 @@
+.footer {
+	padding-bottom: 60px;
+	padding-top: 60px;
+	background-color: var(--third-background-color);
+
+	&__container {
+		display: flex;
+		align-items: baseline;
+	}
+
+	&__contacts {
+		width: 231px;
+		margin-right: 70px;
+	}
+}

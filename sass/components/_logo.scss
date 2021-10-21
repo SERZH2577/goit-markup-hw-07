@@ -3,18 +3,18 @@
 	font-weight: 700;
 	font-size: 26px;
 	line-height: 1.19;
-		&-accent {
-			color: #2196f3;
+	&_color_accent {
+		color: #2196f3;
 	}
-}
 
-.header-logo {
-	display: block;
-	color: #000000;
-}
+	&_color_black {
+		display: block;
+		color: #000000;
+	}
 
-.footer-logo {
-	display: flex;
-	margin-bottom: 20px;
-	color: var(--secondary-text-color);
+	&_color_white {
+		display: flex;
+		margin-bottom: 20px;
+		color: var(--secondary-text-color);
+	}
 }
